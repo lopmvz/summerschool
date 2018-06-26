@@ -1,3 +1,5 @@
+#A note
+for myself
 # CSC Summer School in High-Performance Computing 2018
 
 This is the material repository for the high-performance computing summer school by CSC - Finnish IT Center for Science.
